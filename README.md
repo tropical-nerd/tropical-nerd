@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Charles Robertson
+- 👀 I’m interested in JAM Stack, SPAs, Web Apps, WebGL
+- 🌱 I’m currently learning Rails and React
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me hello@charlesrobertson.io
